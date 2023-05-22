@@ -1,6 +1,6 @@
 {
   "name": "sushi",
-  "main": "index.html",
+  "main": "/index.html",
   "private": true,
   "version": "0.0.0",
   "type": "module",
